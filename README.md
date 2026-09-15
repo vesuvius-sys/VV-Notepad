@@ -83,6 +83,8 @@ No — VVNotepad is closed-source and free to use, with no EULA to sign.
 
 Windows 10 or 11 (x64 or ARM64), with the free **.NET 8** runtime — the app will tell you if it's missing.
 
+No installer, no setup wizard. Just run the `.exe` — your notes are saved to your local AppData folder, encrypted, and nothing else on your system is touched.
+
 ## License
 
 Closed-source, free to use. No warranty, no support commitment — a personal project, maintained as time allows.
